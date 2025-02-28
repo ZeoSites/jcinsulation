@@ -1,0 +1,37 @@
+/var/www/html/jcinsulation/clear.py:64: MarkupResemblesLocatorWarning: The input looks more like a filename than markup. You may want to open this file and pass the filehandle into Beautiful Soup.
+  soup = BeautifulSoup(op, "lxml")
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/images/og-images'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-includes-state/css'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-includes-state/js'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-json-city/oembed'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-json-city/wp'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-includes-county/css'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-includes-county/js'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-includes-city/css'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-includes-city/js'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-content-county/themes'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-content-county/uploads'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-content-county/plugins'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-content-state/themes'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-content-state/uploads'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-content-state/plugins'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-content-city/themes'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-content-city/uploads'
+Error communicating: [Errno 21] Is a directory: 'insulation-contractor/static/wp-content-city/plugins'
+/var/www/html/jcinsulation/fixform.py:134: MarkupResemblesLocatorWarning: The input looks more like a filename than markup. You may want to open this file and pass the filehandle into Beautiful Soup.
+  soup = BeautifulSoup(op, "html.parser")
+Traceback (most recent call last):
+  File "/var/www/html/jcinsulationcopy/howardskeyandlock.py", line 172, in <module>
+    for d in os.listdir('locksmith'):
+             ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'locksmith'
+Traceback (most recent call last):
+  File "/var/www/html/jcinsulationcopy/howardskeyandlock.py", line 172, in <module>
+    for d in os.listdir('locksmith'):
+             ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'locksmith'
+Traceback (most recent call last):
+  File "/var/www/html/jcinsulationcopy/howardskeyandlock.py", line 172, in <module>
+    for d in os.listdir('locksmith'):
+             ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'locksmith'
